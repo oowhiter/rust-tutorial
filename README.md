@@ -14,3 +14,7 @@ Section 3
 
 Section 4
 - [ownership](ownership)
+
+Section 5
+- [structs](structs)
+- [rectangles](rectangles)
