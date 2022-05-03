@@ -18,3 +18,6 @@ Section 4
 Section 5
 - [structs](structs)
 - [rectangles](rectangles)
+
+Section 6
+- [enums](enums)
