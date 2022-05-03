@@ -21,3 +21,7 @@ Section 5
 
 Section 6
 - [enums](enums)
+
+Section 7
+- [restaurant](restaurant)
+- [restaurant_separate](restaurant_separate)
