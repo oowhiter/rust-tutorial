@@ -25,3 +25,6 @@ Section 6
 Section 7
 - [restaurant](restaurant)
 - [restaurant_separate](restaurant_separate)
+
+Section 8
+- [collections](collections)
