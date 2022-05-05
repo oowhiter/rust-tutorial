@@ -28,3 +28,7 @@ Section 7
 
 Section 8
 - [collections](collections)
+
+Section 9
+- [panics](panics)
+- [results](results)
