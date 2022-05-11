@@ -32,3 +32,6 @@ Section 8
 Section 9
 - [panics](panics)
 - [results](results)
+
+Section 10
+- [generics](generics)
