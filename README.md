@@ -35,3 +35,6 @@ Section 9
 
 Section 10
 - [generics](generics)
+
+Section 11
+- [adder](adder)
