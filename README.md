@@ -38,3 +38,10 @@ Section 10
 
 Section 11
 - [adder](adder)
+
+<!--
+ref.
+[Rustのモジュールを詳細に理解する(1) モジュール入門 (この回は簡単です！)](https://qnighy.hatenablog.com/entry/2019/05/06/190000)
+[Rustのモジュールの使い方 2018 Edition版](https://keens.github.io/blog/2018/12/08/rustnomoju_runotsukaikata_2018_editionhan/)
+
+ -->
