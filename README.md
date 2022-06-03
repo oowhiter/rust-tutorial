@@ -39,6 +39,9 @@ Section 10
 Section 11
 - [adder](adder)
 
+Section 12
+- [minigrep](minigrep)
+
 <!--
 ref.
 [Rustのモジュールを詳細に理解する(1) モジュール入門 (この回は簡単です！)](https://qnighy.hatenablog.com/entry/2019/05/06/190000)
