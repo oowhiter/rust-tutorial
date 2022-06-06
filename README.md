@@ -42,6 +42,9 @@ Section 11
 Section 12
 - [minigrep](minigrep)
 
+Section 13
+- [iterator](iterator)
+
 <!--
 ref.
 [Rustのモジュールを詳細に理解する(1) モジュール入門 (この回は簡単です！)](https://qnighy.hatenablog.com/entry/2019/05/06/190000)
