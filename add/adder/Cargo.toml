@@ -1,11 +1,10 @@
 [package]
-name = "art"
+name = "adder"
 version = "0.1.0"
 edition = "2021"
-authors = ["oowhiter <11532057+oowhiter@users.noreply.github.com>"]
-description = "sample package"
-license = "MIT OR Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+add-one = {path = "../add-one"}
+rand = "0.3.14"
