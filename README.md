@@ -45,6 +45,10 @@ Section 12
 Section 13
 - [iterator](iterator)
 
+Section 14
+- [profile](profile)
+- [art](art)
+
 <!--
 ref.
 [Rustのモジュールを詳細に理解する(1) モジュール入門 (この回は簡単です！)](https://qnighy.hatenablog.com/entry/2019/05/06/190000)
