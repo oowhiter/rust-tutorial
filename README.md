@@ -72,6 +72,11 @@ Section 16
 
 - [concurrency](concurrency)
 
+Section 17
+
+- [object](object)
+- [blog](blog)
+
 <!--
 ref.
 [Rustのモジュールを詳細に理解する(1) モジュール入門 (この回は簡単です！)](https://qnighy.hatenablog.com/entry/2019/05/06/190000)
