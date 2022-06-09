@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "minigrep"
+		},
+		{
+			"path": "adder"
+		},
+		{
+			"path": "workout"
+		},
+		{
+			"path": "iterator"
+		},
+		{
+			"path": "smart"
+		},
+		{
+			"path": "concurrency"
+		}
+	],
+	"settings": {}
+}
