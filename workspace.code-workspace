@@ -23,6 +23,9 @@
 		},
 		{
 			"path": "object"
+		},
+		{
+			"path": "patterns"
 		}
 	],
 	"settings": {}
