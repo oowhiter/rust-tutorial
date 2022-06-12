@@ -26,6 +26,24 @@
 		},
 		{
 			"path": "patterns"
+		},
+		{
+			"path": "unsafety"
+		},
+		{
+			"path": "traits"
+		},
+		{
+			"path": "types"
+		},
+		{
+			"path": "functional"
+		},
+		{
+			"path": "macros"
+		},
+		{
+			"path": "hello_macro"
 		}
 	],
 	"settings": {}

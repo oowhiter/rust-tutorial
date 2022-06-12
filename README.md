@@ -77,6 +77,19 @@ Section 17
 - [object](object)
 - [blog](blog)
 
+Section 18
+
+- [patterns](patterns)
+
+Section 19
+
+- [unsafety](unsafety)
+- [traits](traits)
+- [types](types)
+- [functional](functional)
+- [macros](macros)
+- [hello_macro](hello_macro), [pancake](pancake)
+
 <!--
 ref.
 [Rustのモジュールを詳細に理解する(1) モジュール入門 (この回は簡単です！)](https://qnighy.hatenablog.com/entry/2019/05/06/190000)
